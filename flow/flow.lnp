@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"flow.obj" 
+TO "flow" 
+RAMSIZE(256) 
